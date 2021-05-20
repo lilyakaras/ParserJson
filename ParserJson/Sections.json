@@ -1,0 +1,8 @@
+{
+  "section1": {
+    "value1": "x",
+    "subsection1": {
+      "value2": "y"
+    }
+  }
+}
